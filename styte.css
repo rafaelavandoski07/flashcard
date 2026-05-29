@@ -12,3 +12,6 @@
    height: 200px;
 }
 
+.cartao-frente, .cartao-verso{
+   width: 100%;
+}
