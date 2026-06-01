@@ -31,7 +31,7 @@ main {
    flex: 1;
 }
 
-.cabecalho-link{
+.cabecalho-link {
    color: #ffffff;
    text-decoration: none;
 }
@@ -45,4 +45,12 @@ footer{
    background-color:#083b50 ;
    padding: 15px 25px;
    color:#fff
+}
+
+.cartao-interno {
+   position: relative;
+}
+
+.cartao-frente, .cartao-verso {
+position: absolute;
 }
