@@ -29,3 +29,7 @@ min-height: 100vh;
 main {
    flex: 1;
 }
+
+.cabecalho-link{
+   color: #4f8ea7;
+}
