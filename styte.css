@@ -32,4 +32,9 @@ main {
 
 .cabecalho-link{
    color: #4f8ea7;
+   text-decoration: none;
+}
+
+h1 {
+color: #e8ebec;
 }
