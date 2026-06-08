@@ -72,5 +72,6 @@ backface-visibility: hidden;
 }
 
 section{
+   gap: 16px;
    display: flex;
 }
