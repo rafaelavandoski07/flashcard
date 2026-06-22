@@ -11,13 +11,17 @@
    background-color: #0c5d80;
 }
 
-.cartao{
-   width: 260px;
-   height: 200px;
+.cartao {
+width: 260px;
+height: 320px;
 }
 
-.cartao-imagem{
-   width: 100%;
+.cartao-imagem {
+padding-top: 10px;
+width: 100%;
+height: 280px;
+object-fit:cover;
+object-position:top;
 }
 
 body {
